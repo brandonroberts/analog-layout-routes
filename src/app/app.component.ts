@@ -10,7 +10,8 @@ import { Router, RouterLink, RouterOutlet } from '@angular/router';
     <a routerLink="/sign-up">Sign Up</a> | 
     <a routerLink="/login">Login</a> | 
     <a routerLink="/product">Product</a> | 
-    <a routerLink="/categories">Categories</a>
+    <a routerLink="/categories">Categories</a> |
+    <a routerLink="/bad">404</a>
     <hr />
     <router-outlet />
   `,
